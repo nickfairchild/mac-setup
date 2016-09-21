@@ -5,7 +5,7 @@ cask_args appdir: '/Applications'
 tap 'homebrew/bundle'
 tap 'caskroom/cask'
 tap 'homebrew/dupes'
-tap 'homebrew/php'
+tap 'homebrew/php/php70'
 
 # Install GNU core utilities (those that come with OS X are outdated)
 brew 'coreutils'
